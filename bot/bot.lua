@@ -229,6 +229,13 @@ function create_config( )
   config = {
     enabled_plugins = {
       "bot",
+      "Emoji",
+      "Filter",
+      "Info",
+      "Leave",
+      "Linkpv",
+      "Tophoto",
+      "Tosticker",
       "commands",
       "english_lang",
       "export_gban",
